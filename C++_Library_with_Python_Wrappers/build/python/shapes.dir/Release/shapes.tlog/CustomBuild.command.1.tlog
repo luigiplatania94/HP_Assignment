@@ -1,0 +1,10 @@
+^C:\USERS\LUIGI\ONEDRIVE\DESKTOP\C++_LIBRARY_WITH_PYTHON_WRAPPERS\PYTHON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers -BC:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build --check-stamp-file C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build/python/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

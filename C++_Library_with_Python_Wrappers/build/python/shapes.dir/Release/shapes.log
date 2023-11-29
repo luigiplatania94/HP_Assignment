@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/python/CMakeLists.txt
+  shapes_module.cpp
+LINK : fatal error LNK1181: cannot open input file 'python.lib'

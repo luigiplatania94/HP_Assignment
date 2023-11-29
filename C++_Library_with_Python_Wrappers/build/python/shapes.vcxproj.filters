@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\luigi\OneDrive\Desktop\C++_Library_with_Python_Wrappers\python\shapes_module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\luigi\OneDrive\Desktop\C++_Library_with_Python_Wrappers\python\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{615D50A8-77BB-37B0-9973-0F55347D70C3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

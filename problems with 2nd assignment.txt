@@ -1,0 +1,18 @@
+when building the solution in visual studio I have this error:
+
+Rebuild started...
+1>------ Rebuild All started: Project: ZERO_CHECK, Configuration: Debug x64 ------
+1>1>Checking Build System
+2>------ Rebuild All started: Project: shapes_library, Configuration: Debug x64 ------
+2>Building Custom Rule C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/private/CMakeLists.txt
+2>circle.cpp
+2>rectangle.cpp
+2>triangle.cpp
+2>Generating Code...
+2>shapes_library.vcxproj -> C:\Users\luigi\OneDrive\Desktop\C++_Library_with_Python_Wrappers\build\private\Debug\shapes_library.lib
+3>------ Rebuild All started: Project: shapes, Configuration: Debug x64 ------
+3>Building Custom Rule C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/python/CMakeLists.txt
+3>shapes_module.cpp
+3>LINK : fatal error LNK1104: cannot open file 'python.lib'
+3>Done building project "shapes.vcxproj" -- FAILED.
+========== Rebuild All: 2 succeeded, 1 failed, 0 skipped ==========

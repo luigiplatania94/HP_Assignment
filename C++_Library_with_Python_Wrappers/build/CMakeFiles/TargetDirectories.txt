@@ -1,0 +1,4 @@
+C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build/private/CMakeFiles/shapes_library.dir
+C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/build/python/CMakeFiles/shapes.dir

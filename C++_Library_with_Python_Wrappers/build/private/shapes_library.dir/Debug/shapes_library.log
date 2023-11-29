@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/luigi/OneDrive/Desktop/C++_Library_with_Python_Wrappers/private/CMakeLists.txt
+  circle.cpp
+  rectangle.cpp
+  triangle.cpp
+  Generating Code...
+  shapes_library.vcxproj -> C:\Users\luigi\OneDrive\Desktop\C++_Library_with_Python_Wrappers\build\private\Debug\shapes_library.lib
